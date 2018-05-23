@@ -1,0 +1,12 @@
+.Navigate {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Navigate-page-num {
+    align-self: center;
+    width: 10em;
+    text-align: center;
+}
